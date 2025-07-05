@@ -32,13 +32,3 @@ A machine learning-based web application to predict stock prices using historica
 ```bash
 git clone https://github.com/yourusername/stock-price-prediction.git
 cd stock-price-prediction
-
-2. **Clone the repository**
-```bash
-pip install -r requirements.txt
-
----
-
-## ▶️ Run the App
-```bash
-streamlit run app.py
