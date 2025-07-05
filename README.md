@@ -30,5 +30,5 @@ A machine learning-based web application to predict stock prices using historica
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
-cd stock-price-prediction
+git clone https://github.com/sysjaykumar/stock_prediction_ML.git
+cd stock_prediction_ML
